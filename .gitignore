@@ -1,0 +1,29 @@
+# MATLAB files
+*.asv
+*.m~
+*.mat
+*.fig
+*.slx
+*.mex*
+
+# Processed large data files
+*.csv
+*.CSV
+*.set
+*.fdt
+*.bdf
+data/
+raw_data/
+output/
+
+# Python cache (if running ML scripts)
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
